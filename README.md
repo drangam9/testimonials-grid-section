@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Testimonials Grid Section](https://github.com/drangam9/testimonials-grid-section)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-html-css-and-sass-Iha6bhjMUP)
+- Live Site URL: [Testimonials Grid Section](https://drangam9.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-This project taught me about CSS grids, layout, responsive design and that I don't need to use flex for every single thing :').
+This project taught me about CSS grids, layout, responsive design and that I don't need to use flex for every single thing 🥲 .
 
 ### Useful resources
 
